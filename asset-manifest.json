@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yatti123/weather-app/static/css/main.a617e044.chunk.css",
+    "main.js": "/yatti123/weather-app/static/js/main.74590857.chunk.js",
+    "main.js.map": "/yatti123/weather-app/static/js/main.74590857.chunk.js.map",
+    "runtime-main.js": "/yatti123/weather-app/static/js/runtime-main.6430fa2b.js",
+    "runtime-main.js.map": "/yatti123/weather-app/static/js/runtime-main.6430fa2b.js.map",
+    "static/js/2.a39039e2.chunk.js": "/yatti123/weather-app/static/js/2.a39039e2.chunk.js",
+    "static/js/2.a39039e2.chunk.js.map": "/yatti123/weather-app/static/js/2.a39039e2.chunk.js.map",
+    "static/js/3.dcb6c54c.chunk.js": "/yatti123/weather-app/static/js/3.dcb6c54c.chunk.js",
+    "static/js/3.dcb6c54c.chunk.js.map": "/yatti123/weather-app/static/js/3.dcb6c54c.chunk.js.map",
+    "index.html": "/yatti123/weather-app/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/yatti123/weather-app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a39039e2.chunk.js.LICENSE.txt": "/yatti123/weather-app/static/js/2.a39039e2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/yatti123/weather-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6430fa2b.js",
+    "static/js/2.a39039e2.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.74590857.chunk.js"
+  ]
+}
