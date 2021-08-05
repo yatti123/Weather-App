@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/weather-app/static/css/main.f0fd19ae.chunk.css",
-    "main.js": "/weather-app/static/js/main.49422765.chunk.js",
-    "main.js.map": "/weather-app/static/js/main.49422765.chunk.js.map",
-    "runtime-main.js": "/weather-app/static/js/runtime-main.72fea082.js",
-    "runtime-main.js.map": "/weather-app/static/js/runtime-main.72fea082.js.map",
-    "static/js/2.9775673c.chunk.js": "/weather-app/static/js/2.9775673c.chunk.js",
-    "static/js/2.9775673c.chunk.js.map": "/weather-app/static/js/2.9775673c.chunk.js.map",
-    "static/js/3.395c511a.chunk.js": "/weather-app/static/js/3.395c511a.chunk.js",
-    "static/js/3.395c511a.chunk.js.map": "/weather-app/static/js/3.395c511a.chunk.js.map",
+    "main.js": "/weather-app/static/js/main.c3b08a61.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.c3b08a61.chunk.js.map",
+    "runtime-main.js": "/weather-app/static/js/runtime-main.b61911cd.js",
+    "runtime-main.js.map": "/weather-app/static/js/runtime-main.b61911cd.js.map",
+    "static/js/2.87dc8f5c.chunk.js": "/weather-app/static/js/2.87dc8f5c.chunk.js",
+    "static/js/2.87dc8f5c.chunk.js.map": "/weather-app/static/js/2.87dc8f5c.chunk.js.map",
+    "static/js/3.ef0831ae.chunk.js": "/weather-app/static/js/3.ef0831ae.chunk.js",
+    "static/js/3.ef0831ae.chunk.js.map": "/weather-app/static/js/3.ef0831ae.chunk.js.map",
     "index.html": "/weather-app/index.html",
     "static/css/main.f0fd19ae.chunk.css.map": "/weather-app/static/css/main.f0fd19ae.chunk.css.map",
-    "static/js/2.9775673c.chunk.js.LICENSE.txt": "/weather-app/static/js/2.9775673c.chunk.js.LICENSE.txt",
+    "static/js/2.87dc8f5c.chunk.js.LICENSE.txt": "/weather-app/static/js/2.87dc8f5c.chunk.js.LICENSE.txt",
     "static/media/cloudy-night.bdd63c6a.svg": "/weather-app/static/media/cloudy-night.bdd63c6a.svg",
     "static/media/cloudy.755396fe.svg": "/weather-app/static/media/cloudy.755396fe.svg",
     "static/media/day.c5cf49fb.svg": "/weather-app/static/media/day.c5cf49fb.svg",
@@ -27,9 +27,9 @@
     "static/media/wind.d35fef2c.svg": "/weather-app/static/media/wind.d35fef2c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.72fea082.js",
-    "static/js/2.9775673c.chunk.js",
+    "static/js/runtime-main.b61911cd.js",
+    "static/js/2.87dc8f5c.chunk.js",
     "static/css/main.f0fd19ae.chunk.css",
-    "static/js/main.49422765.chunk.js"
+    "static/js/main.c3b08a61.chunk.js"
   ]
 }
